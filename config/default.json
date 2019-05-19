@@ -1,0 +1,5 @@
+{
+	"port": "3900",
+	"jwtPrivateKey": "",
+	"db": "mongodb://localhost/fotidyllen"
+}
